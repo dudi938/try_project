@@ -1,5 +1,5 @@
 void main()
 {
-	printf("dwin test module\r\n");
+	printf("main module\r\n");
 	return;	
 }
